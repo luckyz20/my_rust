@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "my_rust_utils",
+    "tcpserver",
+    "tcpclient",
+    "httpserver",
+    "http"
+
+]
