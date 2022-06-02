@@ -6,8 +6,7 @@ members = [
     "tcpclient",
     "httpserver",
     "http",
-
-    "webservice"
-    
+    "webservice",
+    "my-redis"
 
 ]
