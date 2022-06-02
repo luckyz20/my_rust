@@ -1,1 +1,3 @@
-*.toml linguist-language=Rust
+*.js linguist-language=Rust
+*.css linguist-language=Rust
+*.html linguist-language=Rust
